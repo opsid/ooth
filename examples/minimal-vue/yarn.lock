@@ -298,9 +298,10 @@ ooth-local@^2.0.0:
     ooth-i18n "^2.0.0"
     passport-local "^1.0.0"
 
-ooth-mongo@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ooth-mongo/-/ooth-mongo-2.0.0.tgz#9aa4df221dd2fe3c87ff9c3da74ffd9c8ee5d931"
+ooth-mongo@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/ooth-mongo/-/ooth-mongo-2.12.0.tgz#a69084a77ee84c647e06af7372872b1b8617281b"
+  integrity sha512-D79vkkNkz9LMIg7f7UxS7SMOpM5kYoMYGLC+J5ZsGxAL1r/cyNoy5bpxCZxVrARRqwglSDSanIe9kCIb9B1dWg==
   dependencies:
     mongodb "^3.1.3"
 
