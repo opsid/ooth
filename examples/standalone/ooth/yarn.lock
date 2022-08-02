@@ -714,6 +714,11 @@ ooth-i18n@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ooth-i18n/-/ooth-i18n-2.0.0.tgz#c9f8082259eebd00574c7e2aba4ab986354bbd80"
 
+ooth-i18n@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/ooth-i18n/-/ooth-i18n-2.12.0.tgz#97885c8fad0578f5b4ff2e6827ceca1790d55c46"
+  integrity sha512-g3DUZ+t6Gs3pk/12tZB31dTkYshcK7vPFG8tkS2zq8ysN/pGDRyKPANGnqiYNqjf6aM8+yfb3uekpGVrpqhVpA==
+
 ooth-jwt@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ooth-jwt/-/ooth-jwt-2.0.0.tgz#cfba41c2effe7b35929482bf2a3821060d7340c5"
@@ -770,6 +775,20 @@ ooth@^2.0.0:
     express-session "^1.15.6"
     locale "^0.1.0"
     ooth-i18n "^2.0.0"
+    passport "^0.3.2"
+    passport-custom "^1.0.5"
+
+ooth@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/ooth/-/ooth-2.12.0.tgz#64faa2065bd8db7eb7871597a4db91206d585be3"
+  integrity sha512-vbp3faUX7ayw9HF5Y6rB8N1N5qeavomLHWJr4KRNDrNV/03dYaNb2cAjgFHRVO1Dmk7JxtCQb+sPvQC95Np5NQ==
+  dependencies:
+    body-parser "^1.16.0"
+    cookie-parser "^1.4.3"
+    express "^4.14.1"
+    express-session "^1.15.6"
+    locale "^0.1.0"
+    ooth-i18n "^2.12.0"
     passport "^0.3.2"
     passport-custom "^1.0.5"
 
