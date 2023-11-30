@@ -17,7 +17,7 @@
   },
   "repository": "nmaro/ooth",
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.1",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
     "ooth": "^2.6.0",
