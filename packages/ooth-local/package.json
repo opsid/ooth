@@ -18,7 +18,7 @@
   },
   "repository": "nmaro/ooth",
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.1",
     "ooth-i18n": "^2.5.0",
     "passport-local": "^1.0.0"
   },
