@@ -34,7 +34,7 @@
     "ooth-ws": "^2.0.0",
     "passport": "^0.4.0",
     "passport-jwt": "^3.0.1",
-    "subscriptions-transport-ws": "^0.9.1"
+    "subscriptions-transport-ws": "^0.11.0"
   },
   "engines": {
     "node": ">=8"
