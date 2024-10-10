@@ -10,8 +10,8 @@
   "author": "Nicola Marcacci Rossi <nicolamr@gmail.com> (http://nmr.io)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2",
-    "express-session": "^1.15.6",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
     "mongodb": "^3.0.1",
     "ooth": "^2.0.0",
     "ooth-local": "^2.0.0",
