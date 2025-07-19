@@ -16,7 +16,7 @@
     "mailcomposer": "^4.0.1",
     "mailgun-js": "^0.13.1",
     "mongodb": "^2.2.33",
-    "morgan": "^1.8.0",
+    "morgan": "^1.10.1",
     "ooth": "^2.0.0",
     "ooth-guest": "^2.0.0",
     "ooth-jwt": "^2.0.0",
